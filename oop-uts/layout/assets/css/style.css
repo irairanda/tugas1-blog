@@ -1,0 +1,66 @@
+.container {
+	width: 910px;
+	height: 294px;
+	margin: auto;
+}
+
+.header {
+	margin-bottom: 10px;
+}
+
+.kepala img {
+  margin-bottom:  15px;
+  width: 1020px;
+  height: 300px;
+}
+
+.menu a {
+	padding: 10px;
+	background: #7C4700;
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background: #997950;
+	text-decoration: none;
+}
+
+.main a{
+	background: #fff;
+	text-decoration: none;
+	font-family: black;
+
+
+}
+.table1 {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+    margin-left: 200px;
+    text-decoration: none;
+}
+
+.table1 td {
+  padding: 15px 25px;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  border-left: 1px solid #e0e0e0;
+  background: #fafafa;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fbfbfb), to(#fafafa));
+  background: -moz-linear-gradient(top, #fbfbfb, #fafafa);
+}
+
+.table1 tr {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.table1 th {
+  padding: 15px 35px;
+  border-left:1px solid #e0e0e0;
+  border-bottom:3px solid #e0e0e0;
+}
+.footer {
+
+}
